@@ -9,7 +9,7 @@
 
 Entrer dans le domaine pour me faire de l'expérience afin d'un jour pouvoir monter en grade.
 
-## Prix et nominations
+## Nominations
 
 - Concours d'essai audiovisuel de la technique d'intégration multimédia (2022)
 - Concours d'essai audiovisuel de la technique d'intégration multimédia (2023)
