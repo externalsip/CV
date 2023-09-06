@@ -24,7 +24,7 @@ Entrer dans le domaine pour me faire de l'expérience afin d'un jour pouvoir mon
 
 ## Compétences
 
-- Maitrise des languages de développement web en front-end (Html, CSS, Javascript)
+- Maîtrise des languages de développement web en front-end (Html, CSS, Javascript)
 - Apte à utiliser le JSON pour récupérer des informations.
 - Utilisation de librairies de commandes tel que Bootstrap, et GSAP
 - Connaissances de base en création de site web sur Wordpress.
@@ -33,7 +33,11 @@ Entrer dans le domaine pour me faire de l'expérience afin d'un jour pouvoir mon
 - Création d'un template de jeu d'aventure en point-and-click entièrement en Javascript avec utilisation de JSON.
 - Connaissances de base en C++ et C#
 
+## Qualités
 
+- Ponctuel
+- Apprend vite
+- S'adapte aux sitations.
 
 
 
