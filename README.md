@@ -1,5 +1,3 @@
-# CV
-
 **Nom** Jacob Alarie-Brousseau <br>
 **Email** jacobalariebrousseau@gmail.com <br>
 **Téléphone** 438-393-5695 <br>
