@@ -51,6 +51,7 @@ Tutorat pour la technique d'intégration multimédia (Hiver 2023 - Présent)
 
 - Visual Studio Code
 - Figma
+- Github desktop
 - Autodesk Maya
 - Cycling 74 Max 8
 - DaVinci Resolve
