@@ -1,7 +1,7 @@
-**Nom** Jacob Alarie-Brousseau <br>
-**Email** jacobalariebrousseau@gmail.com <br>
-**Téléphone** 438-393-5695 <br>
-**Ville** Laval
+**Nom**: Jacob Alarie-Brousseau <br>
+**Email**: jacobalariebrousseau@gmail.com <br>
+**Téléphone**: 438-393-5695 <br>
+**Ville**: Laval
 
 ## Objectif de carrière
 
