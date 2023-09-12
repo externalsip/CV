@@ -45,8 +45,8 @@ Tutorat pour la technique d'intégration multimédia (Hiver 2023 - Présent)
 
 ## Références
 
-- À venir
-
+ - Marie-Michelle Ouellet (Enseignante en web, technique d'intégration multimédia) marie-michelle.ouellet@cmontmorency.qc.ca
+ 
 ## Logiciels
 
 - Visual Studio Code
