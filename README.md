@@ -16,13 +16,14 @@ Tutorat pour la technique d'intégration multimédia (Hiver 2023 - Présent)
 - Concours d'essai audiovisuel de la technique d'intégration multimédia (2022)
 - Concours d'essai audiovisuel de la technique d'intégration multimédia (2023)
 
-## Langues parlées
-- Français (Langue maternelle)
-- Anglais
-
 ## Formation
 
 - Technique d'intégration multimédia (Collège Montmorency) 2021-2024
+
+## Langues parlées
+
+- Français (Langue maternelle)
+- Anglais
 
 ## Compétences
 
@@ -45,7 +46,7 @@ Tutorat pour la technique d'intégration multimédia (Hiver 2023 - Présent)
 
 ## Références
 
- - Marie-Michelle Ouellet (Enseignante en web, technique d'intégration multimédia) marie-michelle.ouellet@cmontmorency.qc.ca
+- Sur demande.
  
 ## Logiciels
 
