@@ -5,16 +5,16 @@
 
 ## Objectif de carrière
 
-Entrer dans le domaine pour me faire de l'expérience afin d'un jour pouvoir monter en grade.
+Entrer dans le domaine pour gagner de l'expérience, développer de nouvelles compétences, apprendre de nouvelles choses.
 
 ## Expérience
 
-Tutorat pour la technique d'intégration multimédia (Hiver 2023 - Présent)
+Tutorat pour la technique d'intégration multimédia (Collège Montmorency) (Hiver 2023 - Présent)
 
 ## Nominations
 
-- Concours d'essai audiovisuel de la technique d'intégration multimédia (2022)
 - Concours d'essai audiovisuel de la technique d'intégration multimédia (2023)
+- Concours d'essai audiovisuel de la technique d'intégration multimédia (2022)
 
 ## Formation
 
@@ -27,7 +27,7 @@ Tutorat pour la technique d'intégration multimédia (Hiver 2023 - Présent)
 
 ## Compétences
 
-- Maîtrise des languages de développement web en front-end (Html, CSS, Javascript)
+- Maîtrise des langues de développement web en front-end (Html, CSS, Javascript)
 - Apte à utiliser le JSON pour récupérer des informations.
 - Utilisation de librairies tel que Bootstrap et GSAP
 - Connaissances de base en création de site web sur Wordpress.
@@ -56,6 +56,7 @@ Tutorat pour la technique d'intégration multimédia (Hiver 2023 - Présent)
 - Autodesk Maya
 - Cycling 74 Max 8
 - DaVinci Resolve
+- WordPress
 - Unity (En train d'apprendre)
 - Arduino (En train d'apprendre)
 - Aseprite (En train d'apprendre)
