@@ -27,7 +27,7 @@ Tutorat pour la technique d'intégration multimédia (Collège Montmorency) (Hiv
 
 ## Compétences
 
-- Maîtrise des langues de développement web en front-end (Html, CSS, Javascript)
+- Maîtrise des langues de développement web en front-end (HTML, CSS, JavaScript)
 - Apte à utiliser le JSON pour récupérer des informations.
 - Utilisation de librairies tel que Bootstrap et GSAP
 - Connaissances de base en création de site web sur Wordpress.
@@ -56,10 +56,11 @@ Tutorat pour la technique d'intégration multimédia (Collège Montmorency) (Hiv
 - Autodesk Maya
 - Cycling 74 Max 8
 - DaVinci Resolve
-- WordPress
-- Unity (En train d'apprendre)
-- Arduino (En train d'apprendre)
-- Aseprite (En train d'apprendre)
+- WordPress.org
+- Unity
+- Arduino IDE
+- Aseprite
+- Blender
 
 ## Portfolio
 
