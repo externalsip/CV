@@ -29,12 +29,13 @@ Tutorat pour la technique d'intégration multimédia (Collège Montmorency) (Hiv
 
 - Maîtrise des langues de développement web en front-end (HTML, CSS, JavaScript)
 - Apte à utiliser le JSON pour récupérer des informations.
-- Utilisation de librairies tel que Bootstrap et GSAP
-- Connaissances de base en création de site web sur Wordpress.
+- Utilisation de librairies web (Bootstrap, GSAP, Swiper.js, Vue.js)
+- Création de site web sur Wordpress.org.
 - Connaissances de base en PHP et bases de données en mySQL.
-- Connaissances de base en traitement de bases de données.
-- Création d'un template de jeu d'aventure en point-and-click entièrement en Javascript avec utilisation de JSON.
-- Connaissances de base en C++ (Arduino) et C# (Unity)
+- Connaissances de bases sur Unity
+- Connaissances de base sur Arduino IDE
+- Modélisation 3D d'objets et environements (Autodesk MAYA et Blender)
+- Montage vidéo
 
 ## Qualités
 
