@@ -14,8 +14,12 @@ Entrer dans le domaine pour gagner de l'expérience, développer de nouvelles co
 
 ## Nominations
 
-- Concours d'essai audiovisuel de la technique d'intégration multimédia (2023)
-- Concours d'essai audiovisuel de la technique d'intégration multimédia (2022)
+- Concours d'essai audiovisuel de la techniques d'intégration multimédia (2023)
+- Concours d'essai audiovisuel de la techniques d'intégration multimédia (2022)
+
+## Prix
+
+- Concours d'essai audiovisuel de la techniques d'intégration multimédia (2024)
 
 ## Formation
 
