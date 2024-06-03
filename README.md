@@ -9,7 +9,8 @@ Entrer dans le domaine pour gagner de l'expérience, développer de nouvelles co
 
 ## Expérience
 
-Tutorat pour la technique d'intégration multimédia (Collège Montmorency) (Hiver 2023 - Présent)
+- Tutorat pour la technique d'intégration multimédia (Collège Montmorency) (Hiver 2023 - Printemps 2024)
+- Stage en développement de jeu vidéo chez Yéti Concept (Avril 2024 - Mai 2024)
 
 ## Nominations
 
@@ -18,7 +19,7 @@ Tutorat pour la technique d'intégration multimédia (Collège Montmorency) (Hiv
 
 ## Formation
 
-- Technique d'intégration multimédia (Collège Montmorency) 2021-2024
+- Techniques d'intégration multimédia (Collège Montmorency) 2021-2024
 
 ## Langues parlées
 
