@@ -24,6 +24,7 @@ Entrer dans le domaine pour gagner de l'expérience, développer de nouvelles co
 ## Formation
 
 - Techniques d'intégration multimédia (Collège Montmorency) 2021-2024
+- Baccalauréat en création de jeux vidéo (Université du Québec en Abitibi-Témiscamingue) 2024-2027
 
 ## Langues parlées
 
